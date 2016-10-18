@@ -1,1 +1,7 @@
-.................
+1.There are two players required to play the game, assuming them player1 and player2.
+2.Then, the program should ask about the total no. of tiles on which they want to play,
+3.Since the maze is square, only number of tiles on each side is required.
+4.We could ask them to select their favourite number which will be used on maze to mark their selected tile.
+5.Now, we will ask the coordinates of the tile on maze which they want to select, and print the updated maze.
+6.And the program will notice after each step, whether a a row , column or diagonal consist only one type of input number. And holder of that number will be declared winner.
+7.If till last chance , there is no winner, then game is draw.
